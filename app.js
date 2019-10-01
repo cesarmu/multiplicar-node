@@ -31,6 +31,9 @@ switch (comando) {
 //git init
 //git status
 //Si se quieren omitir archivos o carpetas se genera el archivo .gitignore
+//git add   --este es para agregar todos los archivos al git (para crear un snapshot, previo a realizar un commit)
+//git status   -- los archivos o carpetas en verde son los que van a hacerse commit
+//git commit -m "Tablas de multiplicar"
 
 
 
