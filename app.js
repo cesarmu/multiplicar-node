@@ -27,7 +27,7 @@ switch (comando) {
 }
 
 
-
+//Todo esto es local
 //git init
 //git status
 //Si se quieren omitir archivos o carpetas se genera el archivo .gitignore
@@ -35,6 +35,9 @@ switch (comando) {
 //git status   -- los archivos o carpetas en verde son los que van a hacerse commit
 //git commit -m "Tablas de multiplicar"
 
+//Esto es para pasarlo al git en linea
+//git remote add origin https://github.com/cesarmu/multiplicar-node.git
+//git push -u origin master
 
 
 
